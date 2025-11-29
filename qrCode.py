@@ -27,5 +27,22 @@ b = 20
 
 print(a if a > b else b)
 
+a = 10
+b = 20
+
+print(a if a > b else b)
+a = 10
+b = 20
+
+print(a if a > b else b)
+a = 10
+b = 20
+
+print(a if a > b else b)
+
+a = 10
+b = 20
+
+print(a if a > b else b)
 
     
