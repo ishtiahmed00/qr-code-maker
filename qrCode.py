@@ -12,6 +12,7 @@ while a:
     print(a)
     a -= 1
 
+
 print("My Name is Khan")
 print("My Name is kana")
 
