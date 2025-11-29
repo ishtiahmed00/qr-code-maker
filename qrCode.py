@@ -7,6 +7,10 @@ import qrcode
 img = qrcode.make("https://youtu.be/Fj6cr3FO2JI?si=kkNHIZfoxDyN404J")
 img.save("hello_ji.png")
 
+a = 10
+b = 20
+
+print(a if a > b else b)
 
 print("My Name is Khan")
 print("My Name is kana")
@@ -21,4 +25,6 @@ a = 10
 b = 20
 
 print(a if a > b else b)
+
+
     
